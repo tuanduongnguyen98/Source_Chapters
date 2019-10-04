@@ -1,0 +1,16 @@
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\bin\Debug\netstandard2.0\chapter1.deps.json
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\bin\Debug\netstandard2.0\chapter1.dll
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\bin\Debug\netstandard2.0\ref\chapter1.dll
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\bin\Debug\netstandard2.0\chapter1.pdb
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\chapter1.csprojAssemblyReference.cache
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\chapter1.AssemblyInfoInputs.cache
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\chapter1.AssemblyInfo.cs
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\chapter1.dll
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\ref\chapter1.dll
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\chapter1.pdb
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\chapter1.csproj.CoreCompileInputs.cache
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\chapter1.Properties.Resources.resources
+E:\Year4_Term1\Multi-platform programming\exercise\chapter1\chapter1\chapter1\obj\Debug\netstandard2.0\chapter1.csproj.GenerateResource.cache
