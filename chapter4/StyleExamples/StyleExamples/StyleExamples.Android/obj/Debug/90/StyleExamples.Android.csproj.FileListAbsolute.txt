@@ -1,0 +1,4 @@
+E:\Year4_Term1\Multi-platform programming\exercise_code\chapter4\StyleExamples\StyleExamples\StyleExamples.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\Year4_Term1\Multi-platform programming\exercise_code\chapter4\StyleExamples\StyleExamples\StyleExamples.Android\obj\Debug\90\build.props
+E:\Year4_Term1\Multi-platform programming\exercise_code\chapter4\StyleExamples\StyleExamples\StyleExamples.Android\obj\Debug\90\adb.props
+E:\Year4_Term1\Multi-platform programming\exercise_code\chapter4\StyleExamples\StyleExamples\StyleExamples.Android\obj\Debug\90\StyleExamples.Android.csprojAssemblyReference.cache

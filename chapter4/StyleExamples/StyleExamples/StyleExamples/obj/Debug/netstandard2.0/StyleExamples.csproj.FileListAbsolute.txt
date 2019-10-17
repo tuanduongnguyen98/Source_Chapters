@@ -1,0 +1,1 @@
+E:\Year4_Term1\Multi-platform programming\exercise_code\chapter4\StyleExamples\StyleExamples\StyleExamples\obj\Debug\netstandard2.0\StyleExamples.csprojAssemblyReference.cache
