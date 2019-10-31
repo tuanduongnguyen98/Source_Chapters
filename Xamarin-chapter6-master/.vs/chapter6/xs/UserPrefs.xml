@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1162FF02-BA5F-418A-AFE1-A29D1D24E760}|Default">
+  <MonoDevelop.Ide.ItemProperties.chapter6.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="chapter6/ListViewGrouped.xaml.cs">
+    <Files>
+      <File FileName="chapter6/ListViewGrouped.xaml" Line="19" Column="1" />
+      <File FileName="chapter6/ListViewGrouped.xaml.cs" Line="15" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="chapter6" expanded="True">
+            <Node name="chapter6" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="ListViewButton.xaml" expanded="True" />
+              <Node name="ListViewContextAction.xaml" expanded="True" />
+              <Node name="ListViewCustom.xaml" expanded="True" />
+              <Node name="ListViewDataModel.xaml" expanded="True" />
+              <Node name="ListViewGrouped.xaml" expanded="True">
+                <Node name="ListViewGrouped.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="chapter6.Android" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.chapter6.Android PreferredExecutionTarget="Android.8UEDU17C06001017" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

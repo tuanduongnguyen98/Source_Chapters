@@ -1,0 +1,17 @@
+/Users/khoadang/Documents/chapter6/chapter6/bin/Debug/netstandard2.0/chapter6.deps.json
+/Users/khoadang/Documents/chapter6/chapter6/bin/Debug/netstandard2.0/chapter6.dll
+/Users/khoadang/Documents/chapter6/chapter6/bin/Debug/netstandard2.0/ref/chapter6.dll
+/Users/khoadang/Documents/chapter6/chapter6/bin/Debug/netstandard2.0/chapter6.pdb
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/chapter6.csprojAssemblyReference.cache
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ListViewDataModel.xaml.g.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/chapter6.AssemblyInfoInputs.cache
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/chapter6.AssemblyInfo.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/chapter6.dll
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ref/chapter6.dll
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/chapter6.pdb
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ListViewButton.xaml.g.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ListViewCustom.xaml.g.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ListViewContextAction.xaml.g.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ListViewGrouped.xaml.g.cs
